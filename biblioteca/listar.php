@@ -80,7 +80,9 @@
                             <td>$autor</td>
                             <td>$lancamento_brasileiro</td>
                             <td>
+                            <a href='deletar.php?codigo=$codigo'>   
                                 <img src='png-clipart-computer-icons-delete-button-miscellaneous-angle-thumbnail.png' width='40px'>
+                            
                         </tr>         
                         ");
                     }
